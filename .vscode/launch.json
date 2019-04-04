@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JAVA",
+            "request": "launch",
+            "mainClass": "JAVA",
+            "projectName": "nowcoder_9634f2e6"
+        }
+    ]
+}
