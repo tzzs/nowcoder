@@ -14,6 +14,8 @@ public class TreeNode {
 
 }
 */
+// how to create a queue?
+// Queue<TreeNode> queue = new LinkedList<TreeNode>();
 public class Solution {
     public ArrayList<Integer> PrintFromTopToBottom(TreeNode root) {
         Queue<TreeNode> queue = new LinkedList<TreeNode>();
